@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class Ex2_Xep_hau {
 	public static int n = 8;
 	public static int[] x = new int[100];
